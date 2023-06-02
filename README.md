@@ -1,19 +1,22 @@
-# Fala devs, sejam muito bem-vindo ao meu perfil!
-## Me chamo Gabriel Lima e fico muito feliz com sua visita!
+# Fala devs, sejam muito bem-vindos ao meu perfil!
+### Me chamo Gabriel Lima e fico muito feliz com sua visita!
 
-## Atualmente estou estudando essas seguintes linguagens:
+#### Então, sou uma pessoa que gosta de desafios e sempre busco aprender mais. Momentaneamente estou estagiando na área de desenvolvimento utilizando Java com Spring Boot para a criação de API's.
 
-<div style="display: inline_block"><br>
+### 🖥️ Tecnologias e Ferramentas: 
+
+<div style="display: inline_block"> <br>
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-Spring-Boot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg">
+  <img align="center" alt="Gabriel-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 
 ---
-## Se quiser falar comigo, entre em contato pelo LinkedIn
+
+## Se quiser falar comigo, entre em contato pelo LinkedIn!
 
 <div> 
   <a href="https://www.linkedin.com/in/gabrielimacouto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
