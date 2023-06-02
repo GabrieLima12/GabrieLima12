@@ -1,7 +1,7 @@
 # Fala devs, sejam muito bem-vindos ao meu perfil!
 ### Me chamo Gabriel Lima e fico muito feliz com sua visita!
 
-#### Então, sou uma pessoa que gosta de desafios e sempre busco aprender mais. Momentaneamente estou estagiando na área de desenvolvimento utilizando Java com Spring Boot para a criação de API's.
+#### Sou uma pessoa que gosta de desafios e de aprender coisa novas. Momentaneamente estou estagiando na área de desenvolvimento utilizando Java com Spring Boot para a criação de API's.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
