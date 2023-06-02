@@ -1,7 +1,6 @@
-# Fala devs, sejam muito bem-vindos ao meu perfil!
-### Me chamo Gabriel Lima e fico muito feliz com sua visita!
+# Fala devs, sejam muito bem-vindos ao meu perfil, fico muito feliz com sua visita!
 
-#### Sou uma pessoa que gosta de desafios e de aprender coisa novas. Momentaneamente estou estagiando na área de desenvolvimento utilizando Java com Spring Boot para a criação de API's.
+#### Me chamo Gabriel Lima, tenho 18 anos e faz 1 ano e meio que conheci o mundo da programação e desde então tenho buscado me aperfeiçoar cada vez mais. No momento estou estudando Ciência da Computação e estou estagiando na área de desenvolvimento utilizando Java com Spring Boot para a criação de API's. Sou uma pessoa que gosta de desafios e sempre disposto a aprender coisa novas.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
@@ -26,6 +25,6 @@
 
 <div>
   <a href="https://github.com/GabrieLima12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrieLima12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLima12&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GabrieLima12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrieLima12&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
