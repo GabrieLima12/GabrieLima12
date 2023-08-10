@@ -1,6 +1,6 @@
 # Fala devs, sejam muito bem-vindos ao meu perfil, fico muito feliz com sua visita!
 
-#### Me chamo Gabriel Lima, tenho 18 anos e faz 1 ano e meio que conheci o mundo da programação e desde então tenho buscado me aperfeiçoar cada vez mais. No momento estou estudando Ciência da Computação e estou estagiando na área de desenvolvimento utilizando Java com Spring Boot para a criação de API's. Sou uma pessoa que gosta de desafios e sempre disposto a aprender coisa novas.
+#### Me chamo Gabriel Lima, tenho 19 anos e faz 1 ano e meio que conheci o mundo da programação e desde então tenho buscado me aperfeiçoar cada vez mais. No momento estou estudando Ciência da Computação e estou estagiando na área de desenvolvimento utilizando Java com Spring Boot para a criação de API's. Sou uma pessoa que gosta de desafios e sempre disposto a aprender coisa novas.
 
 ### 🖥️ Tecnologias e Ferramentas: 
 
