@@ -15,7 +15,7 @@
 
 ---
 
-## Se quiser falar comigo, entre em contato pelo LinkedIn!
+## Entre em contato pelo LinkedIn!
 
 <div> 
   <a href="https://www.linkedin.com/in/gabrielimacouto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">   </a> 
